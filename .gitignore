@@ -135,3 +135,5 @@ build/
 
 # End of https://www.toptal.com/developers/gitignore/api/node,now,react
 
+# ignore commit message
+.gitcommit
